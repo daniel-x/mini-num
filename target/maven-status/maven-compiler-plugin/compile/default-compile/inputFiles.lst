@@ -1,0 +1,11 @@
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/MnFuncs.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/format/MnFormat.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/format/NumberStats.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/MnArrays.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/format/ThreadLocalForDecimalFormat.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/MnLinalg.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/lookuptables/FloatLookupTableTanh.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/lookuptables/FloatLookupTableSigmoid.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/format/StringUtil.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/lookuptables/FloatLookupTable.java
+/home/user/eclipse-workspace/mini-num/src/main/java/de/a0h/mininum/format/DecimalFormatWithPadding.java

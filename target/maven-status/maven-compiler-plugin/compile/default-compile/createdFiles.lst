@@ -1,0 +1,11 @@
+de/a0h/mininum/MnArrays.class
+de/a0h/mininum/format/ThreadLocalForDecimalFormat.class
+de/a0h/mininum/format/StringUtil.class
+de/a0h/mininum/lookuptables/FloatLookupTable.class
+de/a0h/mininum/MnFuncs.class
+de/a0h/mininum/lookuptables/FloatLookupTableSigmoid.class
+de/a0h/mininum/format/MnFormat.class
+de/a0h/mininum/lookuptables/FloatLookupTableTanh.class
+de/a0h/mininum/format/DecimalFormatWithPadding.class
+de/a0h/mininum/MnLinalg.class
+de/a0h/mininum/format/NumberStats.class
